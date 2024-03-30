@@ -1,0 +1,26 @@
+{
+  "name": "calculator-gen-ai-project-no.-1",
+  "version": "1.0.0",
+  "description": "panverse simple calculator project no.1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MalasKhan/Calculator-no.1-gen-Ai.git"
+  },
+  "author": "Malas khan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MalasKhan/Calculator-no.1-gen-Ai/issues"
+  },
+  "homepage": "https://github.com/MalasKhan/Calculator-no.1-gen-Ai#readme",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
